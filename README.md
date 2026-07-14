@@ -56,10 +56,10 @@ Each solution includes:
 
 | Difficulty | Solved |
 |------------|-------:|
-| Easy | 1 |
-| Medium | 0 |
+| Easy | 3 |
+| Medium | 2 |
 | Hard | 0 |
-| **Total** | **1** |
+| **Total** | **5** |
 
 > *This table will be updated as I solve more problems.*
 
